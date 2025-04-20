@@ -1,3 +1,13 @@
+# Genesis
+The code is based on "MongoDB - The Complete Developer's Guide" course
+
+[About course](https://www.udemy.com/course/mongodb-the-complete-developers-guide/?couponCode=ST8MT101424)
+
+
+# Technologi used
+- JS
+- MongoDb
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
