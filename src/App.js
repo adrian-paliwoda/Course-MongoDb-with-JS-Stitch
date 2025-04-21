@@ -17,7 +17,7 @@ import ConfirmAccountPage from './pages/Auth/ConfirmAccount';
 
 class App extends Component {
   state = {
-    isAuth: false,
+    isAuth: true,
     authMode: 'login',
     error: null
   };
